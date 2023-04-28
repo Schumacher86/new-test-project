@@ -1,0 +1,9 @@
+Host github-<Schumacher86>
+HostName github.com
+User git
+IdentityFile C:\Users\m.makarov\Documents\Trash\WD2022\Git\.ssh\id_ed25519
+
+Host github-<Schumacher7>
+HostName github.com
+User git
+IdentityFile C:\Users\m.makarov\Documents\Trash\WD2022\Git\.ssh\id_ed25519_2
